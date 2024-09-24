@@ -1,0 +1,8 @@
+## Interface: 110000
+## Version: 0.0.1
+## Title: Hide Player Frame
+## Notes: Simply disable this to add the frame back, there is no UI
+## Author: shunter@bluecollarcode.com
+## X-License: GPLv3 <https://www.gnu.org/licenses/gpl-3.0-standalone.html>
+
+HidePlayerFrame.lua

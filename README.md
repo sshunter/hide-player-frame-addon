@@ -12,3 +12,7 @@ with WeakAuras, makes the player frame largely redundant.
 My WoW sub is currently lapsed; I am mostly checking this in so I can find it
 late and, likewise, I can't currently test if the addon works with Classic or
 Cataclysm Classic.
+
+This is not published to Curse or WowInterface, et al. I use
+[WowUp](https://wowup.io/) as my addon installer and can simply point it at this
+github repository to install the addon.
